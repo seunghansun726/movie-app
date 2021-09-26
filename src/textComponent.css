@@ -1,0 +1,47 @@
+.place_1 {
+    color: var(--black);
+    font-family: var(--font-family-helveticaneue-bold);
+    font-size: var(--font-size-s);
+    letter-spacing: 0;
+    line-height: 30px;
+    min-height: 38px;
+    white-space: nowrap;
+  }
+  .place_2 {
+    color: #707070;
+    font-family: var(--font-family-helveticaneue-bold);
+    font-size: var(--font-size-s);
+    letter-spacing: 0;
+    line-height: 30px;
+    min-height: 38px;
+    opacity: 0.15;
+    white-space: nowrap;
+  }
+  
+  
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+  
+  @font-face {
+    font-family: "HelveticaNeue-Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: url("https://fonts.animaapp.com/HelveticaNeue-Bold") format("truetype");
+  }
+  * {
+    box-sizing: border-box;
+  }
+  
+  
+  
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+  
+  @font-face {
+    font-family: "HelveticaNeue-Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: url("https://fonts.animaapp.com/HelveticaNeue-Bold") format("truetype");
+  }
+  * {
+    box-sizing: border-box;
+  }
+  
